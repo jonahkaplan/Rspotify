@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome
+
+This project uses mosiac images to create blah blah
+
+initial credit from [https://github.com/tiagomendesdantas/Rspotify](https://github.com/tiagomendesdantas/Rspotify)
 
 You can use the [editor on GitHub](https://github.com/jonahkaplan/Rspotify/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
